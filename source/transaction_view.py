@@ -4,6 +4,10 @@ from withdraw_window import Ui_Withdraw
 from modify_info import Ui_ModifyInfo
 import sqlite3
 
+"""
+    This is a test of the git branching function. Nothing has been modified past
+    this comment. 6/25/17
+"""
 
 class Ui_Transactions(QtWidgets.QMainWindow):
 
