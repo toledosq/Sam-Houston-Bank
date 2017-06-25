@@ -3,6 +3,8 @@ import sqlite3
 from transaction_view import Ui_Transactions
 from new_user import Ui_NewUser
 
+# 6/25/17 testing git push
+
 class Ui_Login(QtWidgets.QDialog):
     
     def showMessageBox(self, title, message):
